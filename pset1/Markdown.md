@@ -3,11 +3,13 @@
 - Comecei meu trabalho pelo modelo elmasri proposto.
 ![](https://cdn.discordapp.com/attachments/748201102373027931/968623523750895646/unknown.png)
 - Fiz apartir do SQL Power Architecht pela máquina virtual.
+- O arquivo está no subdiretorio "Pset1", salvo como "Elmasri.achitect".
 ---
 ## Script MySQL
 - Utilizei MySQL Workbench para produzir o script.
 ![](https://uploaddeimagens.com.br/images/003/844/307/full/pset23.png?1651007303)
 - Após fazer o Esquema do trabalho pelo Workbench utilizei o próprio aplicativo para conseguir o script.
+- O script está no subdiretorio "Pset1", salvo como "mySQL.sql".
 - O script mySQL:
 ```
 -- MySQL Workbench Forward Engineering
@@ -147,6 +149,7 @@ SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
 ---
 ## Script PostGre
 - Utilizei um aplicativo para poder converter para PostGre ([Site do conversor](https://www.convert-in.com/mysql-to-postgres.htm))
+- O script está no subdiretorio "Pset1", salvo como "PostGre.sql".
 - Código após a conversão:
 ```
 /*
